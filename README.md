@@ -1,7 +1,9 @@
 # Easy_fish
-Bot fish for tera 
-Hola, alguien interesado este tipo de mod?...
-Estoy vendiendo uno por un precio muy bajo, totalmente seguro.
-Tiene un pequeño bug y es que a veces no para de pescar y pescar.. por lo que si quieres hacer otra cosa tendrias que reiniciar el proxy.
+| Bot fish for tera |
 
-Doy gratis este mod a quien me ayude a resolver ese bug  xD !!
+
+Hello, anyone interested in this type of mod?...
+I am selling one for a very low price, totally safe.
+It has a small bug and it is that sometimes it does not stop fishing and fishing... so if you want to do something else you would have to restart the proxy.
+
+I give this mod for free to whoever helps me solve that bug xD !!
