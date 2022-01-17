@@ -14,3 +14,6 @@ Characteristics and use:
 * Craft baits if you don't have them in your inventory.
 
 *I can enable you to sell them to a market instead of dismantling them, but at your own risk... I don't know how safe that option is.
+
+
+Discord: Klein#4545
